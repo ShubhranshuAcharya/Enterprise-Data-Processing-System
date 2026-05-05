@@ -8,8 +8,8 @@
 A high-performance, asynchronous backend data processing system designed to ingest, validate, and store large datasets (15,000+ records) efficiently. It features a modern, glassmorphism administrative dashboard for real-time pipeline monitoring.
 
 ## 📸 Admin Dashboard Preview
-*(Upload the screenshot of your UI here and name it `dashboard_preview.png` in the repo to display it to recruiters!)*
-![Dashboard Preview](./dashboard_preview.png)
+*(Upload the screenshot of your UI here and name it `dashboard preview.png` in the repo to display it to recruiters!)*
+![Dashboard Preview](./dashboard preview.png)
 
 ## 🏗️ Architecture & Engineering Highlights
 
